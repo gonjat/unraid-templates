@@ -16,12 +16,12 @@
 [br][li]You must accept the EULA by setting the [b]EULA[/b] variable to true[/span]</Overview>
   <Category>GameServers:</Category>
   <WebUI/>
-  <TemplateURL>https://raw.githubusercontent.com/Goobaroo/unraid-templates/master/ftboceanblock_server.xml</TemplateURL>
-  <Icon>https://apps.modpacks.ch/modpacks/art/87/logo.png</Icon>
+  <TemplateURL>https://raw.githubusercontent.com/gonjat/unraid-templates/main/ftbstoneblock3_server.xml</TemplateURL>
+  <Icon>https://apps.modpacks.ch/modpacks/art/96/stoneblock_logo.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1667592763</DateInstalled>
+  <DateInstalled>1667624117</DateInstalled>
   <DonateText/>
   <DonateLink/>
   <Description>FTB StoneBlock 3 Modded Server&#xD;
