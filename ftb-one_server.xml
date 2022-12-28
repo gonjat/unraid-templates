@@ -18,7 +18,7 @@
   <WebUI/>
   <TemplateURL>https://raw.githubusercontent.com/gonjat/unraid-templates/main/ftb-one_server.xml</TemplateURL>
   <Icon>https://apps.modpacks.ch/modpacks/art/93/logo.png</Icon>
-  <ExtraParams/>
+  <ExtraParams>--user 99:100</ExtraParams>
   <PostArgs/>
   <CPUset/>
   <DateInstalled>1667594974</DateInstalled>
